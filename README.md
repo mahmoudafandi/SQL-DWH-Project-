@@ -1,9 +1,9 @@
 # SQL-DWH-Project-
 # HR Attrition Analysis & Dashboards  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo)  
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)  
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)  
+![GitHub repo size](https://img.shields.io/github/repo-size/mahmoudafandi03/SQL-DWH-Project-)  
+![GitHub issues](https://img.shields.io/github/issues/mahmoudafandi03/SQL-DWH-Project-)  
+![GitHub license](https://img.shields.io/github/license/mahmoudafandi03/SQL-DWH-Project-)  
 
 ## Project Description
 This project analyzes HR attrition data using SQL Server and creates interactive dashboards in Power BI. It focuses on understanding employee attrition patterns, job satisfaction, departmental performance, and gender-based insights.  
@@ -35,10 +35,8 @@ The dataset used in this project is sourced from **Kaggle**: [HR Attrition Datas
 - `Dashboards/` – Power BI dashboard files  
 
 ## Diagrams Preview
-![DWH Diagram](Diagrams/DWH_diagram.png)  
-![Workflow Diagram](Diagrams/Workflow_diagram.png)  
+![DWH Diagram](Diagrams/dwh_digram.png)  
+![Workflow Diagram](Diagrams/architecure.png)  
 
-## Dashboards Preview
-![Dashboard Screenshot](Dashboards/Dashboard_screenshot.png)  
 
 
